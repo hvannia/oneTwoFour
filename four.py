@@ -1,5 +1,9 @@
 # one two four
-print ("ein zwei drei funf")
+
+def main(msg):print(msg)
+
+#added
+main("ein zwei drei funf vier")
 # end
 
 
